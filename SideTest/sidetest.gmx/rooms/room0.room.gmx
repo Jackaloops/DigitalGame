@@ -89,8 +89,8 @@
     <instance objName="obj_solid" x="288" y="288" name="inst_D5E87814" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="256" y="288" name="inst_8AE6122C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_solid" x="224" y="288" name="inst_F73806B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_top" x="448" y="32" name="inst_C09FF307" locked="0" code="" scaleX="0.129999995231628" scaleY="8" colour="4294967295" rotation="0"/>
     <instance objName="obj_control" x="448" y="160" name="inst_74CDB1D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_top" x="448" y="32" name="inst_E661F4E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -55,11 +55,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-32</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>32</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>
@@ -211,7 +211,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>480</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -239,11 +239,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>32</string>
+            <string>480</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>32</string>
           </argument>
         </arguments>
       </action>
@@ -468,7 +468,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="5" enumb="40">
+    <event eventtype="5" enumb="37">
       <action>
         <libid>1</libid>
         <id>301</id>
@@ -514,7 +514,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="9" enumb="39">
+    <event eventtype="9" enumb="40">
       <action>
         <libid>1</libid>
         <id>403</id>
@@ -535,11 +535,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>32</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>32</string>
           </argument>
         </arguments>
       </action>
@@ -559,16 +559,16 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>32</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>32</string>
           </argument>
         </arguments>
       </action>
     </event>
-    <event eventtype="9" enumb="38">
+    <event eventtype="9" enumb="39">
       <action>
         <libid>1</libid>
         <id>542</id>
@@ -662,7 +662,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="9" enumb="37">
+    <event eventtype="9" enumb="38">
       <action>
         <libid>1</libid>
         <id>403</id>
@@ -683,11 +683,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-32</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-32</string>
           </argument>
         </arguments>
       </action>
@@ -707,11 +707,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-32</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-32</string>
           </argument>
         </arguments>
       </action>

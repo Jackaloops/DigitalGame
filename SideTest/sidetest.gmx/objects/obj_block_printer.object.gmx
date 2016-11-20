@@ -113,11 +113,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>32</string>
+            <string>0</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>32</string>
           </argument>
         </arguments>
       </action>
@@ -207,11 +207,11 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>-256</string>
+            <string>-32</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>32</string>
+            <string>-256</string>
           </argument>
         </arguments>
       </action>
