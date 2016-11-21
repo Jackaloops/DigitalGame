@@ -1,0 +1,37 @@
+## Player Moves
+* Heal 20 (red) - 4
+* Attack 20 (blue) - 4
+* Clear Bottom Row (green?) - 4
+* 3 gems to be able collect
+* hotkeys 1 2 3
+
+## Attacks
+* start 15 sec counter
+	* Timer resets differently depending on which attack is used
+* Clear topmost layer
+* Differently shaped attacks
+* Attacks that target specific gem colors
+
+## Player
+* 100 health
+* ea. fireball 20 dmg
+
+## Other
+* UI & Menu
+
+## stretch goals
+* elemental damage
+* Items by winning currency
+* Minion enemies
+	* random encounters/smaller fights
+
+## Requirement
+* Falling blocks need to be solid colored gems
+* Implement colored gem mechanics
+* Implement attacks
+* Implement different colored fireballs
+* Implement clear topmost layer
+* Fix bug with blocks falling through bottom
+* Basic Menu
+* Basic Sounds
+* Winstate (stop fireballs, blocks, etc.)
