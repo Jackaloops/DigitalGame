@@ -1,6 +1,6 @@
 ## Player Moves
 * Heal 20 (red) - 4
-* Attack 20 (blue) - 4
+* Attack 22 (blue) - 4
 * Clear Bottom Row (green?) - 4
 * 3 gems to be able collect
 * hotkeys 1 2 3
@@ -15,6 +15,9 @@
 ## Player
 * 100 health
 * ea. fireball 20 dmg
+
+## Dragon
+* 666 health
 
 ## Other
 * UI & Menu
