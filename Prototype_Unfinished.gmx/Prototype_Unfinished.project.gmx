@@ -54,15 +54,6 @@
     <font>fonts\fnt_score</font>
   </fonts>
   <objects name="objects">
-    <object>objects\obj_block</object>
-    <object>objects\obj_fireball</object>
-    <object>objects\obj_game</object>
-    <object>objects\obj_solid</object>
-    <object>objects\obj_fall</object>
-    <object>objects\obj_shiftblock</object>
-    <object>objects\obj_destructor</object>
-    <object>objects\obj_top</object>
-    <object>objects\obj_gameover</object>
     <objects name="blocks">
       <object>objects\obj_SQ</object>
       <objects name="L-block">
@@ -96,11 +87,22 @@
         <object>objects\obj_T4</object>
       </objects>
     </objects>
+    <objects name="attacks">
+      <object>objects\obj_normal_attack</object>
+      <object>objects\obj_AttackMovement</object>
+      <object>objects\obj_fireball</object>
+    </objects>
+    <object>objects\obj_block</object>
+    <object>objects\obj_game</object>
+    <object>objects\obj_solid</object>
+    <object>objects\obj_fall</object>
+    <object>objects\obj_shiftblock</object>
+    <object>objects\obj_destructor</object>
+    <object>objects\obj_top</object>
+    <object>objects\obj_gameover</object>
     <object>objects\obj_fireballTimer</object>
     <object>objects\obj_WinTimer</object>
-    <object>objects\obj_attack</object>
     <object>objects\obj_enemy</object>
-    <object>objects\obj_AttackMovment</object>
     <object>objects\obj_endzone</object>
   </objects>
   <rooms name="rooms">
