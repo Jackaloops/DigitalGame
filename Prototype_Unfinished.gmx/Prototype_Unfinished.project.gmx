@@ -6,41 +6,119 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_px</sprite>
     <sprites name="blocks">
       <sprite>sprites\spr_square</sprite>
+      <sprite>sprites\spr_square_blue</sprite>
+      <sprite>sprites\spr_square_red</sprite>
       <sprites name="L-block">
-        <sprite>sprites\spr_L1</sprite>
-        <sprite>sprites\spr_L2</sprite>
-        <sprite>sprites\spr_L3</sprite>
-        <sprite>sprites\spr_L4</sprite>
+        <sprites name="green">
+          <sprite>sprites\spr_L1</sprite>
+          <sprite>sprites\spr_L2</sprite>
+          <sprite>sprites\spr_L3</sprite>
+          <sprite>sprites\spr_L4</sprite>
+        </sprites>
+        <sprites name="red">
+          <sprite>sprites\spr_L1_red</sprite>
+          <sprite>sprites\spr_L2_red</sprite>
+          <sprite>sprites\spr_L3_red</sprite>
+          <sprite>sprites\spr_L4_red</sprite>
+        </sprites>
+        <sprites name="blue">
+          <sprite>sprites\spr_L1_blue</sprite>
+          <sprite>sprites\spr_L2_blue</sprite>
+          <sprite>sprites\spr_L3_blue</sprite>
+          <sprite>sprites\spr_L4_blue</sprite>
+        </sprites>
       </sprites>
       <sprites name="J-block">
-        <sprite>sprites\spr_J1</sprite>
-        <sprite>sprites\spr_J2</sprite>
-        <sprite>sprites\spr_J3</sprite>
-        <sprite>sprites\spr_J4</sprite>
+        <sprites name="green">
+          <sprite>sprites\spr_J1</sprite>
+          <sprite>sprites\spr_J2</sprite>
+          <sprite>sprites\spr_J3</sprite>
+          <sprite>sprites\spr_J4</sprite>
+        </sprites>
+        <sprites name="red">
+          <sprite>sprites\spr_J1_red</sprite>
+          <sprite>sprites\spr_J2_red</sprite>
+          <sprite>sprites\spr_J3_red</sprite>
+          <sprite>sprites\spr_J4_red</sprite>
+        </sprites>
+        <sprites name="blue">
+          <sprite>sprites\spr_J1_blue</sprite>
+          <sprite>sprites\spr_J2_blue</sprite>
+          <sprite>sprites\spr_J3_blue</sprite>
+          <sprite>sprites\spr_J4_blue</sprite>
+        </sprites>
       </sprites>
       <sprites name="S-block">
-        <sprite>sprites\spr_S1</sprite>
-        <sprite>sprites\spr_S2</sprite>
+        <sprites name="green">
+          <sprite>sprites\spr_S1</sprite>
+          <sprite>sprites\spr_S2</sprite>
+        </sprites>
+        <sprites name="blue">
+          <sprite>sprites\spr_S1_blue</sprite>
+          <sprite>sprites\spr_S2_blue</sprite>
+        </sprites>
+        <sprites name="red">
+          <sprite>sprites\spr_S1_red</sprite>
+          <sprite>sprites\spr_S2_red</sprite>
+        </sprites>
       </sprites>
       <sprites name="Z-block">
-        <sprite>sprites\spr_Z1</sprite>
-        <sprite>sprites\spr_Z2</sprite>
+        <sprites name="green">
+          <sprite>sprites\spr_Z1</sprite>
+          <sprite>sprites\spr_Z2</sprite>
+        </sprites>
+        <sprites name="blue">
+          <sprite>sprites\spr_Z1_blue</sprite>
+          <sprite>sprites\spr_Z2_blue</sprite>
+        </sprites>
+        <sprites name="red">
+          <sprite>sprites\spr_Z1_red</sprite>
+          <sprite>sprites\spr_Z2_red</sprite>
+        </sprites>
       </sprites>
       <sprites name="I-block">
-        <sprite>sprites\spr_I1</sprite>
-        <sprite>sprites\spr_I2</sprite>
+        <sprites name="green">
+          <sprite>sprites\spr_I1</sprite>
+          <sprite>sprites\spr_I2</sprite>
+        </sprites>
+        <sprites name="red">
+          <sprite>sprites\spr_I1_red</sprite>
+          <sprite>sprites\spr_I2_red</sprite>
+        </sprites>
+        <sprites name="blue">
+          <sprite>sprites\spr_I1_blue</sprite>
+          <sprite>sprites\spr_I2_blue</sprite>
+        </sprites>
       </sprites>
       <sprites name="T-block">
-        <sprite>sprites\spr_T1</sprite>
-        <sprite>sprites\spr_T2</sprite>
-        <sprite>sprites\spr_T3</sprite>
-        <sprite>sprites\spr_T4</sprite>
+        <sprites name="green">
+          <sprite>sprites\spr_T1</sprite>
+          <sprite>sprites\spr_T2</sprite>
+          <sprite>sprites\spr_T3</sprite>
+          <sprite>sprites\spr_T4</sprite>
+        </sprites>
+        <sprites name="blue">
+          <sprite>sprites\spr_T1_blue</sprite>
+          <sprite>sprites\spr_T2_blue</sprite>
+          <sprite>sprites\spr_T3_blue</sprite>
+          <sprite>sprites\spr_T4_blue</sprite>
+        </sprites>
+        <sprites name="red">
+          <sprite>sprites\spr_T1_red</sprite>
+          <sprite>sprites\spr_T2_red</sprite>
+          <sprite>sprites\spr_T3_red</sprite>
+          <sprite>sprites\spr_T4_red</sprite>
+        </sprites>
       </sprites>
     </sprites>
-    <sprite>sprites\spr_block</sprite>
+    <sprites name="gems">
+      <sprite>sprites\spr_block_blue</sprite>
+      <sprite>sprites\spr_block_red</sprite>
+      <sprite>sprites\spr_block_green</sprite>
+    </sprites>
+    <sprite>sprites\spr_px</sprite>
     <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_overlay</sprite>
     <sprite>sprites\spr_destructor</sprite>
@@ -92,7 +170,11 @@
       <object>objects\obj_AttackMovement</object>
       <object>objects\obj_fireball</object>
     </objects>
-    <object>objects\obj_block</object>
+    <objects name="gems">
+      <object>objects\obj_block_green</object>
+      <object>objects\obj_block_red</object>
+      <object>objects\obj_block_blue</object>
+    </objects>
     <object>objects\obj_game</object>
     <object>objects\obj_solid</object>
     <object>objects\obj_fall</object>
