@@ -134,35 +134,73 @@
   <objects name="objects">
     <objects name="blocks">
       <object>objects\obj_SQ</object>
+      <object>objects\obj_SQ_blue</object>
+      <object>objects\obj_SQ_red</object>
       <objects name="L-block">
         <object>objects\obj_L1</object>
+        <object>objects\obj_L1_blue</object>
+        <object>objects\obj_L1_red</object>
         <object>objects\obj_L2</object>
+        <object>objects\obj_L2_blue</object>
+        <object>objects\obj_L2_red</object>
         <object>objects\obj_L3</object>
+        <object>objects\obj_L3_blue</object>
+        <object>objects\obj_L3_red</object>
         <object>objects\obj_L4</object>
+        <object>objects\obj_L4_blue</object>
+        <object>objects\obj_L4_red</object>
       </objects>
       <objects name="J-block">
         <object>objects\obj_J1</object>
+        <object>objects\obj_J1_blue</object>
+        <object>objects\obj_J1_red</object>
         <object>objects\obj_J2</object>
+        <object>objects\obj_J2_blue</object>
+        <object>objects\obj_J2_red</object>
         <object>objects\obj_J3</object>
+        <object>objects\obj_J3_blue</object>
+        <object>objects\obj_J3_red</object>
         <object>objects\obj_J4</object>
+        <object>objects\obj_J4_blue</object>
+        <object>objects\obj_J4_red</object>
       </objects>
       <objects name="S-block">
         <object>objects\obj_S1</object>
+        <object>objects\obj_S1_blue</object>
+        <object>objects\obj_S1_red</object>
         <object>objects\obj_S2</object>
+        <object>objects\obj_S2_blue</object>
+        <object>objects\obj_S2_red</object>
       </objects>
       <objects name="Z-block">
         <object>objects\obj_Z1</object>
+        <object>objects\obj_Z1_blue</object>
+        <object>objects\obj_Z1_red</object>
         <object>objects\obj_Z2</object>
+        <object>objects\obj_Z2_blue</object>
+        <object>objects\obj_Z2_red</object>
       </objects>
       <objects name="I-block">
         <object>objects\obj_I1</object>
+        <object>objects\obj_I1_blue</object>
+        <object>objects\obj_I1_red</object>
         <object>objects\obj_I2</object>
+        <object>objects\obj_I2_blue</object>
+        <object>objects\obj_I2_red</object>
       </objects>
       <objects name="T-block">
         <object>objects\obj_T1</object>
+        <object>objects\obj_T1_blue</object>
+        <object>objects\obj_T1_red</object>
         <object>objects\obj_T2</object>
+        <object>objects\obj_T2_blue</object>
+        <object>objects\obj_T2_red</object>
         <object>objects\obj_T3</object>
+        <object>objects\obj_T3_blue</object>
+        <object>objects\obj_T3_red</object>
         <object>objects\obj_T4</object>
+        <object>objects\obj_T4_blue</object>
+        <object>objects\obj_T4_red</object>
       </objects>
     </objects>
     <objects name="attacks">
