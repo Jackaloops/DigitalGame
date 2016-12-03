@@ -74,6 +74,7 @@
     <object>objects\obj_grngem</object>
     <object>objects\obj_blugem</object>
     <object>objects\obj_row</object>
+    <object>objects\obj_destroy</object>
     <objects name="blocks">
       <object>objects\obj_SQ</object>
       <objects name="L-block">
